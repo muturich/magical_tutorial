@@ -37,7 +37,7 @@ None are used in this regular expression.
 
 ### Character Classes
 
-The `[a-z]`character class is used to match any lowercase alphabetical character in the tag name and attribute names. The `[' "] `character class us used to match either single or double quote in the attribute values
+The `[a-z]`character class is used to match any lowercase alphabetical character in the tag name and attribute names. The `[' "] `character class is used to match either single or double quote in the attribute values
 
 ### Flags
 
